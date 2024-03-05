@@ -1,0 +1,24 @@
+{
+  "name": "sigmetycheck",
+  "version": "1.0.0",
+  "description": "A simple script that uses the sigmety logger package for Node.js applications.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logger",
+    "logging",
+    "nodejs",
+    "npm"
+  ],
+  "author": "keraPuarrrr",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keraPuarrrr/sigmetycheck"
+  },
+  "dependencies": {
+    "sigmety": "github:keraPuarrrr/sigmety"
+  }
+}
